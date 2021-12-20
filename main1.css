@@ -1,0 +1,87 @@
+.menu {
+    height: 90px;
+    background: #82bbddc7;
+    padding-right: 140px;
+    width: 100%;
+}
+.menuden{
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+}
+._1khoi {
+    float: right;
+}
+.declick {
+    padding: 15px 25px;
+}.declick i.fab {
+    font-size: 50px;
+    cursor: pointer;
+    color: #fbd828;
+}
+.mautrang{
+    color: white;
+}
+.ra{
+    opacity: 1;
+    visibility: visible;
+    z-index: 2;
+}
+.page{
+    margin-top: -15px;
+    float: left;
+
+}
+.pagehome img {
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.nen {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: -2;
+}
+.card-body {
+    background: #00bfff42;
+}
+.dehienthi {
+    top: 98px;
+    width: 98%;
+    height: 555px;
+    font-size: 15px;
+    opacity: 0;
+    visibility: hidden;
+    background: #78b0e0e6;
+    margin-left: -114px;
+}
+.ra{
+    opacity: 1;
+    visibility: visible;
+    position: fixed;
+    z-index: 2;
+}
+.nutthoat{
+    z-index: 3;
+    position: fixed;
+    cursor: pointer;
+}
+.jumbotro {
+    width: 670%;
+    height: 550px;
+    z-index: 2;
+    position: fixed;
+    background: #78b0e0e6;
+}
+.detailpet{
+    z-index: 2;
+    position: fixed;
+}
+.skill {
+    margin-top: 100px;
+    margin-left: -100px;
+}
+li {
+    font-size: 25px;
+}
